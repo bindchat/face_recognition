@@ -1,0 +1,13 @@
+ultralytics==8.3.34
+torch==2.4.1
+torchvision==0.19.1
+opencv-python==4.10.0.84
+insightface==0.7.3
+onnxruntime==1.19.2
+numpy==2.1.1
+scipy==1.13.1
+scikit-learn==1.5.2
+pillow==10.4.0
+tqdm==4.66.5
+pyyaml==6.0.2
+rich==13.9.2
